@@ -1,0 +1,1 @@
+# TODO: create a product model with id,name,price,in_stock
